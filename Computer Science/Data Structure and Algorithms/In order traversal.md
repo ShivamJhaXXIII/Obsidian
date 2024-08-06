@@ -13,6 +13,7 @@ Related Topics:
 
 #flashcards
 In Order traversal:: left - center - right
+<!--SR:!2024-08-10,4,270-->
 In this traversal we first print the leftmost node then its corresponding middle node then right node.
 
 

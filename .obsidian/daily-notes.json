@@ -2,5 +2,5 @@
   "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
   "folder": "Timestamps",
   "template": "1 Template/Template, Daily Note",
-  "autorun": true
+  "autorun": false
 }

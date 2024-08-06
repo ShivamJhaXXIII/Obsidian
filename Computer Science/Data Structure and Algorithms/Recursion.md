@@ -1,11 +1,8 @@
-{{date}}  {{time}}
-
-Due Date :-
-
-Subject :-
-
-Status :-
+---
+created: 2024-08-03 13:50
+tags: 
+Parent Topic: 
+Related Topics:
+---
 
 ***
-# {{Title}}
-

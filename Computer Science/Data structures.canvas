@@ -1,20 +1,21 @@
 {
 	"nodes":[
-		{"id":"9124af3616e6416a","type":"group","x":1600,"y":-1600,"width":2080,"height":1560,"color":"6","label":"Binary Tree"},
+		{"id":"9124af3616e6416a","type":"group","x":1600,"y":-1300,"width":2080,"height":1560,"color":"6","label":"Binary Tree"},
 		{"id":"22d7d581715ba53a","type":"group","x":200,"y":260,"width":1135,"height":1140,"color":"2","label":"Linked List"},
 		{"id":"5736c216617f4d39","type":"file","file":"Computer Science/Data Structure and Algorithms/Queue.md","x":-360,"y":80,"width":320,"height":300,"color":"2"},
 		{"id":"3c03237ac54a7fe6","type":"file","file":"Computer Science/Data Structure and Algorithms/Arrays.md","x":200,"y":-1180,"width":600,"height":660,"color":"5"},
 		{"id":"a8bdffd8f90d6046","type":"file","file":"Computer Science/Data Structure and Algorithms/Middle Node of the Linked List.md","x":815,"y":275,"width":520,"height":445},
 		{"id":"01293eda434763c7","type":"file","file":"Computer Science/Data Structure and Algorithms/Linked List.md","x":240,"y":338,"width":447,"height":320,"color":"1"},
-		{"id":"33dd36764125fff0","type":"file","file":"Computer Science/Data Structure and Algorithms/Binary Tree.md","x":1840,"y":-1500,"width":705,"height":550,"color":"3"},
 		{"id":"aeede53dfc056c01","type":"text","text":"Linear Data Structure","x":-40,"y":-120,"width":225,"height":70,"color":"3"},
 		{"id":"7e91325e79be8372","type":"file","file":"Computer Science/Data Structure and Algorithms/Stack.md","x":-340,"y":-480,"width":280,"height":260,"color":"6"},
 		{"id":"aa7fff3fef3e04d8","type":"file","file":"Computer Science/Data Structure and Algorithms/nth node from end.md","x":575,"y":860,"width":480,"height":500,"color":"4"},
-		{"id":"b28ce9ddf734763d","type":"text","text":"Non - Linear Data Structures","x":2157,"y":-1951,"width":250,"height":60},
-		{"id":"301905cbb773ab8c","type":"file","file":"Computer Science/Data Structure and Algorithms/Pre Order Traversal.md","x":2480,"y":-760,"width":480,"height":538,"color":"4"},
-		{"id":"890487c49d8888a2","type":"file","file":"Computer Science/Data Structure and Algorithms/Level Order traversal.md","x":2960,"y":-1425,"width":400,"height":400},
-		{"id":"88585f0beedbca17","type":"file","file":"Computer Science/Data Structure and Algorithms/In order traversal.md","x":1920,"y":-585,"width":520,"height":525,"color":"2"},
-		{"id":"9be0a5fb232c580d","type":"file","file":"Computer Science/Data Structure and Algorithms/Post Order Traversal.md","x":1600,"y":-735,"width":300,"height":300,"color":"3"}
+		{"id":"b28ce9ddf734763d","type":"text","text":"Non - Linear Data Structures","x":2157,"y":-2000,"width":283,"height":109},
+		{"id":"33dd36764125fff0","type":"file","file":"Computer Science/Data Structure and Algorithms/Binary Tree.md","x":1620,"y":-1280,"width":705,"height":550,"color":"3"},
+		{"id":"301905cbb773ab8c","type":"file","file":"Computer Science/Data Structure and Algorithms/Pre Order Traversal.md","x":2180,"y":-690,"width":480,"height":538,"color":"4"},
+		{"id":"88585f0beedbca17","type":"file","file":"Computer Science/Data Structure and Algorithms/In order traversal.md","x":1620,"y":-690,"width":520,"height":525,"color":"2"},
+		{"id":"9be0a5fb232c580d","type":"file","file":"Computer Science/Data Structure and Algorithms/Post Order Traversal.md","x":3140,"y":-690,"width":300,"height":300,"color":"3"},
+		{"id":"9197e4871628c8a5","type":"file","file":"Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md","x":2700,"y":-690,"width":400,"height":400},
+		{"id":"890487c49d8888a2","type":"file","file":"Computer Science/Data Structure and Algorithms/Level Order traversal.md","x":2420,"y":-1205,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"8b5493dcf2a7f8f5","fromNode":"aeede53dfc056c01","fromSide":"left","toNode":"5736c216617f4d39","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"969fce53de2278cd","fromNode":"33dd36764125fff0","fromSide":"bottom","toNode":"9be0a5fb232c580d","toSide":"top"},
 		{"id":"9f61621a46278600","fromNode":"301905cbb773ab8c","fromSide":"top","toNode":"33dd36764125fff0","toSide":"bottom"},
 		{"id":"ed4bc093630b9f0b","fromNode":"890487c49d8888a2","fromSide":"left","toNode":"33dd36764125fff0","toSide":"right"},
-		{"id":"14b40da9549532e1","fromNode":"b28ce9ddf734763d","fromSide":"bottom","toNode":"9124af3616e6416a","toSide":"top"}
+		{"id":"14b40da9549532e1","fromNode":"b28ce9ddf734763d","fromSide":"bottom","toNode":"9124af3616e6416a","toSide":"top"},
+		{"id":"ba9f2a9e7221c716","fromNode":"9197e4871628c8a5","fromSide":"top","toNode":"33dd36764125fff0","toSide":"right"}
 	]
 }

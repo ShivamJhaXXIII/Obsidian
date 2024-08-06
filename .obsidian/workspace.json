@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataView.md",
+                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,6 +74,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "5ae90b9356555626",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -97,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataView.md",
+                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataView.md",
+                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,12 +153,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataView.md"
+                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "935580f516742893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e0512790711b7d8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,23 +194,32 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4b57e8afb3b6fd59",
+  "active": "09aec31874935468",
   "lastOpenFiles": [
+    "Computer Science/Data Structure and Algorithms/Binary Tree.md",
+    "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
+    "Pasted image 20240806093413.png",
+    "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md",
+    "Pasted image 20240806093354.png",
+    "Pasted image 20240806092752.png",
     "Computer Science/Data structures.canvas",
-    "Computer Science/Data Structure and Algorithms",
-    "DataView.md",
+    "Computer Science/Binary Tree.canvas",
+    "Computer Science/Data Structure and Algorithms/Recursion.md",
+    "Computer Science/Data Structure and Algorithms/Problems",
+    "Computer Science/Data Structure and Algorithms/Linked List.md",
+    "Timestamps/2024/08-August/2024-08-05-Monday.md",
     "Computer Science/Data Structure and Algorithms/Arrays.md",
+    "DataView.md",
+    "Computer Science/Data Structure and Algorithms",
     "Computer Science/Data Structure and Algorithms/Level Order traversal.md",
     "Data View Tutorial.md",
     "Timestamps/2024/08-August/Untitled.md",
-    "Timestamps/2024/08-August/2024-08-05-Monday.md",
     "Computer Science/Data Structure and Algorithms/nth node from end.md",
     "1 Template/Tv Show and Movies.md",
     "Tv Shows and Movies/House of the Dragon.md",
     "Timestamps/2024/08-August/House of the Dragon.md",
     "Tv Shows and Movies",
     "1 Template/Template, Daily Note.md",
-    "Computer Science/Data Structure and Algorithms/Binary Tree.md",
     "1 Template/Simple Note.md",
     "Computer Science/Sample.md",
     "Timestamps/2024/08-August/2024-08-04-Sunday.md",
@@ -200,10 +231,6 @@
     "Computer Science/Data Structure and Algorithms/In order traversal.md",
     "Computer Science/Post Order Traversal]][[Pre Order Traversal.md",
     "Timestamps/2024/08-August/2024-08-08-Thursday.md",
-    "Timestamps/2024/08-August/2024-08-03-Saturday.md",
-    "1 Template/Full Note.md",
-    "1 Template/Class Note.md",
-    "Computer Science/fhgf.md",
     "Computer Science/Array",
     "Computer Science/Data Structure and Algorithms/Representation-of-Binary-Tree.webp",
     "Computer Science",
@@ -211,7 +238,6 @@
     "Timestamps/2024",
     "Timestamps",
     "Daily Notes",
-    "Pasted image 20240803120328.png",
-    "1 Template"
+    "Pasted image 20240803120328.png"
   ]
 }
