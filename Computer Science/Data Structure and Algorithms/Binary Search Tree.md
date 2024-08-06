@@ -3,8 +3,12 @@ created: 2024-08-06 09:19
 tags:
   - review
   - flashcards
-Parent Topic: 
-Related Topics:
+Parent Topic:
+  - "[[Binary Tree]]"
+Related Topics: 
+sr-due: 2024-08-10
+sr-interval: 4
+sr-ease: 270
 ---
 
 ***
@@ -73,4 +77,20 @@ public treeNode insert(treeNode root, int value) {
 }
 ```
 
+***
+
+##### <Span style = "color: green"><u>Searching in Binary Search Tree </u></span>
+
+```java
+public treeNode search(treeNode root, int key) {
+	if(root == null || root.data == key) {
+		return root;
+	}
+	if(key < root.data) {
+		return search(root.left, key);
+	} else {
+		return search(root.right,key);
+	}
+}
+```
 

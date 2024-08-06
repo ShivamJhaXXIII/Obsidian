@@ -1,48 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Binary Search Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Binary Tree.md"
-    },
-    {
-      "basename": "Max Value in Binary Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md"
-    },
-    {
-      "basename": "Post Order Traversal",
-      "path": "Computer Science/Data Structure and Algorithms/Post Order Traversal.md"
-    },
-    {
-      "basename": "Data structures",
-      "path": "Computer Science/Data structures.canvas"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Computer Science/Binary Tree.canvas"
-    },
-    {
-      "basename": "Level Order traversal",
-      "path": "Computer Science/Data Structure and Algorithms/Level Order traversal.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "Computer Science/Data Structure and Algorithms/Recursion.md"
+      "basename": "Valid Binary Search Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md"
     },
     {
       "basename": "Linked List",
       "path": "Computer Science/Data Structure and Algorithms/Linked List.md"
     },
     {
-      "basename": "2024-08-05-Monday",
-      "path": "Timestamps/2024/08-August/2024-08-05-Monday.md"
+      "basename": "Queue",
+      "path": "Computer Science/Data Structure and Algorithms/Queue.md"
+    },
+    {
+      "basename": "Binary Search Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md"
     },
     {
       "basename": "Arrays",
       "path": "Computer Science/Data Structure and Algorithms/Arrays.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms Made Easy in Java ( PDFDrive )",
+      "path": "Computer Science/Data Structures and Algorithms Made Easy in Java ( PDFDrive ).pdf"
+    },
+    {
+      "basename": "Data structures",
+      "path": "Computer Science/Data structures.canvas"
+    },
+    {
+      "basename": "2024-08-05-Monday",
+      "path": "Timestamps/2024/08-August/2024-08-05-Monday.md"
+    },
+    {
+      "basename": "Max Value in Binary Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md"
+    },
+    {
+      "basename": "Level Order traversal",
+      "path": "Computer Science/Data Structure and Algorithms/Level Order traversal.md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary Tree.md"
+    },
+    {
+      "basename": "Post Order Traversal",
+      "path": "Computer Science/Data Structure and Algorithms/Post Order Traversal.md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Computer Science/Binary Tree.canvas"
+    },
+    {
+      "basename": "Recursion",
+      "path": "Computer Science/Data Structure and Algorithms/Recursion.md"
     }
   ],
   "omittedPaths": []

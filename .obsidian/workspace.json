@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
+                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
+                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
+                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,12 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Binary Search Tree.md"
+                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "935580f516742893",
@@ -196,22 +195,26 @@
   },
   "active": "09aec31874935468",
   "lastOpenFiles": [
-    "Computer Science/Data Structure and Algorithms/Binary Tree.md",
+    "Computer Science/Data Structure and Algorithms/Linked List.md",
+    "Computer Science/Data Structure and Algorithms/Queue.md",
+    "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
     "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
-    "Pasted image 20240806093413.png",
-    "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md",
-    "Pasted image 20240806093354.png",
+    "Computer Science/Data Structure and Algorithms/Arrays.md",
+    "Computer Science/Data Structures and Algorithms Made Easy in Java ( PDFDrive ).pdf",
+    "Computer Science/Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles ( PDFDrive ).pdf",
     "Pasted image 20240806092752.png",
+    "Pasted image 20240806093354.png",
+    "Pasted image 20240806093413.png",
     "Computer Science/Data structures.canvas",
+    "Timestamps/2024/08-August/2024-08-05-Monday.md",
+    "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md",
+    "Computer Science/Data Structure and Algorithms/Level Order traversal.md",
+    "Computer Science/Data Structure and Algorithms/Binary Tree.md",
     "Computer Science/Binary Tree.canvas",
     "Computer Science/Data Structure and Algorithms/Recursion.md",
     "Computer Science/Data Structure and Algorithms/Problems",
-    "Computer Science/Data Structure and Algorithms/Linked List.md",
-    "Timestamps/2024/08-August/2024-08-05-Monday.md",
-    "Computer Science/Data Structure and Algorithms/Arrays.md",
     "DataView.md",
     "Computer Science/Data Structure and Algorithms",
-    "Computer Science/Data Structure and Algorithms/Level Order traversal.md",
     "Data View Tutorial.md",
     "Timestamps/2024/08-August/Untitled.md",
     "Computer Science/Data Structure and Algorithms/nth node from end.md",
@@ -230,14 +233,11 @@
     "Computer Science/Data Structure and Algorithms/Pre Order Traversal.md",
     "Computer Science/Data Structure and Algorithms/In order traversal.md",
     "Computer Science/Post Order Traversal]][[Pre Order Traversal.md",
-    "Timestamps/2024/08-August/2024-08-08-Thursday.md",
     "Computer Science/Array",
     "Computer Science/Data Structure and Algorithms/Representation-of-Binary-Tree.webp",
     "Computer Science",
     "Timestamps/2024/08-August",
     "Timestamps/2024",
-    "Timestamps",
-    "Daily Notes",
     "Pasted image 20240803120328.png"
   ]
 }
