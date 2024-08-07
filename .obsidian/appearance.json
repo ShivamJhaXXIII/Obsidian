@@ -1,7 +1,11 @@
 {
-  "cssTheme": "Tokyo Night",
-  "theme": "system",
-  "baseFontSize": 19,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "accentColor": "#0fb9db",
+  "showViewHeader": true
 }

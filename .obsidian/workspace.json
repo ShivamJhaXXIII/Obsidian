@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0514898fbc1ea916",
+        "id": "bac24e34f68bcbab",
         "type": "tabs",
         "children": [
           {
-            "id": "09aec31874935468",
+            "id": "e21532c0d6a1f939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
+                "file": "Computer Science/Nptel Course/DSA in java/Collections in JCF.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 372.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
+                "file": "Computer Science/Nptel Course/DSA in java/Collections in JCF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
+                "file": "Computer Science/Nptel Course/DSA in java/Collections in JCF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,12 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md"
+                "file": "Computer Science/Nptel Course/DSA in java/Collections in JCF.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "935580f516742893",
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 472.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,51 +193,56 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "09aec31874935468",
+  "active": "9ed789d316aa194f",
   "lastOpenFiles": [
-    "Computer Science/Data Structure and Algorithms/Linked List.md",
-    "Computer Science/Data Structure and Algorithms/Queue.md",
-    "Computer Science/Data Structure and Algorithms/Problems/Valid Binary Search Tree.md",
-    "Computer Science/Data Structure and Algorithms/Binary Search Tree.md",
-    "Computer Science/Data Structure and Algorithms/Arrays.md",
+    "Computer Science/Data Structure and Algorithms/Linked List/Linked List.md",
+    "Computer Science/Data Structure and Algorithms/Linked List/nth node from end.md",
+    "Computer Science/Nptel Course/DSA in java/Collections in JCF.md",
+    "Computer Science/Data Structure and Algorithms/Arrays/Arrays.md",
+    "Array List.md",
+    "Pasted image 20240807212803.png",
+    "Pasted image 20240807212630.png",
+    "Pasted image 20240807210442.png",
+    "Timestamps/2024/08-August/2024-08-07-Wednesday.md",
+    "Computer Science/Nptel Course/DSA in java/Basics of Framework.md",
+    "Pasted image 20240807200512.png",
+    "Computer Science/Nptel Course/DSA in java/Interface.md",
+    "1 Template/Simple Note.md",
+    "Computer Science/Data Structure and Algorithms/Arrays/Untitled.md",
+    "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md",
+    "Computer Science/Nptel Course/DSA in java",
+    "Computer Science/Nptel Course",
+    "Computer Science/Data structures.canvas",
+    "DataView.md",
+    "Pasted image 20240807165643.png",
+    "Pasted image 20240807141536.png",
+    "Pasted image 20240807141827.png",
+    "Pasted image 20240806092752.png",
+    "Computer Science/Data Structure and Algorithms/Recursion.md",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Valid Binary Search Tree.md",
+    "Computer Science/Data Structure and Algorithms/Arrays/Search in Sorted 2D Matrix.md",
+    "Computer Science/Java Collection Frame Work/Java Frame Work.canvas",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Binary Search Tree.md",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Max Value in Binary Tree.md",
+    "Timestamps/2024/08-August/2024-08-09-Friday.md",
+    "Timestamps/2024/08-August/2024-08-06-Tuesday.md",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Binary Tree.md",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Pre Order Traversal.md",
+    "Computer Science/Data Structure and Algorithms/Queues",
+    "Computer Science/Data Structure and Algorithms/Binary tree",
+    "Computer Science/Data Structure and Algorithms/Binary tree/In order traversal.md",
+    "Computer Science/Data Structure and Algorithms/Binary tree/Post Order Traversal.md",
+    "Computer Science/Data Structure and Algorithms/Linked List",
+    "Computer Science/Data Structure and Algorithms/Untitled.md",
+    "Computer Science/Data Structure and Algorithms/Stacks",
+    "Computer Science/Data Structure and Algorithms/Arrays",
+    "Computer Science/Data Structure and Algorithms/Queues/Queue.md",
     "Computer Science/Data Structures and Algorithms Made Easy in Java ( PDFDrive ).pdf",
     "Computer Science/Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles ( PDFDrive ).pdf",
-    "Pasted image 20240806092752.png",
     "Pasted image 20240806093354.png",
     "Pasted image 20240806093413.png",
-    "Computer Science/Data structures.canvas",
     "Timestamps/2024/08-August/2024-08-05-Monday.md",
-    "Computer Science/Data Structure and Algorithms/Problems/Max Value in Binary Tree.md",
-    "Computer Science/Data Structure and Algorithms/Level Order traversal.md",
-    "Computer Science/Data Structure and Algorithms/Binary Tree.md",
     "Computer Science/Binary Tree.canvas",
-    "Computer Science/Data Structure and Algorithms/Recursion.md",
-    "Computer Science/Data Structure and Algorithms/Problems",
-    "DataView.md",
-    "Computer Science/Data Structure and Algorithms",
-    "Data View Tutorial.md",
-    "Timestamps/2024/08-August/Untitled.md",
-    "Computer Science/Data Structure and Algorithms/nth node from end.md",
-    "1 Template/Tv Show and Movies.md",
-    "Tv Shows and Movies/House of the Dragon.md",
-    "Timestamps/2024/08-August/House of the Dragon.md",
-    "Tv Shows and Movies",
-    "1 Template/Template, Daily Note.md",
-    "1 Template/Simple Note.md",
-    "Computer Science/Sample.md",
-    "Timestamps/2024/08-August/2024-08-04-Sunday.md",
-    "Computer Science/Java Collection Frame Work/Array List.md",
-    "Computer Science/Java Collection Frame Work/Java Frame Work.canvas",
-    "Computer Science/Java Collection Frame Work",
-    "Computer Science/Data Structure and Algorithms/Middle Node of the Linked List.md",
-    "Computer Science/Data Structure and Algorithms/Pre Order Traversal.md",
-    "Computer Science/Data Structure and Algorithms/In order traversal.md",
-    "Computer Science/Post Order Traversal]][[Pre Order Traversal.md",
-    "Computer Science/Array",
-    "Computer Science/Data Structure and Algorithms/Representation-of-Binary-Tree.webp",
-    "Computer Science",
-    "Timestamps/2024/08-August",
-    "Timestamps/2024",
-    "Pasted image 20240803120328.png"
+    "Computer Science/Data Structure and Algorithms/Problems"
   ]
 }

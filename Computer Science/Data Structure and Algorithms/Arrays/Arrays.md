@@ -7,7 +7,7 @@ sr-ease: 270
 
 2024-08-03 00:22  #review
 
-#Arrays are the indexed linear data structure. 
+#Arrays are the indexed linear data structure.
 
 ##### Key Points to remember :-
 1. The index of an array starts from 0 and ends at n - 1 index. Where n is the length of an array.
@@ -20,7 +20,7 @@ There are two main types of arrays:
 
 - One-dimensional arrays: These arrays store a single row of elements.
 
-- Multidimensional arrays:**** These arrays store multiple rows of elements.
+- Multidimensional arrays: These arrays store multiple rows of elements.
 
 ## Array Operations
 

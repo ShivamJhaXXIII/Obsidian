@@ -1,12 +1,4 @@
 {
-  "calendar:show-calendar-view": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [

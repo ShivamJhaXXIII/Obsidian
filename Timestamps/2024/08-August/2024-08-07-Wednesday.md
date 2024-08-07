@@ -1,0 +1,40 @@
+---
+created: 2024-08-07 09:23
+---
+tags:: [[+Daily Notes]]
+
+# Wednesday, August 07, 2024
+
+<< [[Timestamps/2024/08-August/2024-08-06-Tuesday|Yesterday]] | [[Timestamps/2024/08-August/2024-08-08-Thursday|Tomorrow]] >>
+
+---
+### 📅 Daily Questions
+##### 🌜 Last night, after work, I...
+- 
+
+##### 🙌 One thing I'm excited about right now is...
+- 
+
+#### 🙌Things i did today...
+- 
+
+##### 🚀 One+ thing I plan to accomplish today is...
+- [ ] 
+
+##### 👎 One thing I'm struggling with today is...
+- 
+
+---
+# 📝 Notes
+- <% tp.file.cursor() %>
+
+---
+### Notes created today
+```dataview
+List FROM "" WHERE file.cday = date("2024-08-07") SORT file.ctime asc
+```
+
+### Notes last touched today
+```dataview
+List FROM "" WHERE file.mday = date("2024-08-07") SORT file.mtime asc
+```

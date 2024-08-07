@@ -27,6 +27,8 @@ private static class treeNode {
     }  
 }
 ```
+---
+
 
 ### Types of Binary trees
 Binary trees can be classified into multiple types based on multiple factors :
