@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Heap",
+      "path": "Computer Science/Data Structure and Algorithms/Binary Heap.md"
+    },
+    {
+      "basename": "2024-08-08-Thursday",
+      "path": "Timestamps/2024/08-August/2024-08-08-Thursday.md"
+    },
+    {
+      "basename": "2024-08-06-Tuesday",
+      "path": "Timestamps/2024/08-August/2024-08-06-Tuesday.md"
+    },
+    {
+      "basename": "2024-08-05-Monday",
+      "path": "Timestamps/2024/08-August/2024-08-05-Monday.md"
+    },
+    {
+      "basename": "2024-08-04-Sunday",
+      "path": "Timestamps/2024/08-August/2024-08-04-Sunday.md"
+    },
+    {
+      "basename": "2024-08-03-Saturday",
+      "path": "Timestamps/2024/08-August/2024-08-03-Saturday.md"
+    },
+    {
+      "basename": "2024-08-09-Friday",
+      "path": "Timestamps/2024/08-August/2024-08-09-Friday.md"
+    },
+    {
+      "basename": "Complete Binary Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Complete Binary Tree.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "Computer Science/Data Structure and Algorithms/Queues/Priority Queue.md"
+    },
+    {
+      "basename": "Spiral Print",
+      "path": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md"
+    },
+    {
+      "basename": "DataView",
+      "path": "DataView.md"
+    },
+    {
+      "basename": "Valid Binary Search Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Valid Binary Search Tree.md"
+    },
+    {
+      "basename": "Binary Search Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Binary Search Tree.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Computer Science/Data Structure and Algorithms/Arrays/Arrays.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms Made Easy in Java ( PDFDrive )",
+      "path": "Computer Science/Data Structures and Algorithms Made Easy in Java ( PDFDrive ).pdf"
+    },
+    {
       "basename": "Collections in JCF",
       "path": "Computer Science/Nptel Course/DSA in java/Collections in JCF.md"
+    },
+    {
+      "basename": "Basics of Framework",
+      "path": "Computer Science/Nptel Course/DSA in java/Basics of Framework.md"
+    },
+    {
+      "basename": "Pre Order Traversal",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Pre Order Traversal.md"
+    },
+    {
+      "basename": "In order traversal",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/In order traversal.md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Binary Tree.md"
     },
     {
       "basename": "Linked List",
@@ -13,16 +89,8 @@
       "path": "Computer Science/Data Structure and Algorithms/Linked List/nth node from end.md"
     },
     {
-      "basename": "Arrays",
-      "path": "Computer Science/Data Structure and Algorithms/Arrays/Arrays.md"
-    },
-    {
       "basename": "2024-08-07-Wednesday",
       "path": "Timestamps/2024/08-August/2024-08-07-Wednesday.md"
-    },
-    {
-      "basename": "Basics of Framework",
-      "path": "Computer Science/Nptel Course/DSA in java/Basics of Framework.md"
     },
     {
       "basename": "Interface",
@@ -31,14 +99,6 @@
     {
       "basename": "Simple Note",
       "path": "1 Template/Simple Note.md"
-    },
-    {
-      "basename": "Spiral Print",
-      "path": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md"
-    },
-    {
-      "basename": "DataView",
-      "path": "DataView.md"
     },
     {
       "basename": "Pasted image 20240807141536",
@@ -53,10 +113,6 @@
       "path": "Pasted image 20240806092752.png"
     },
     {
-      "basename": "Valid Binary Search Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Valid Binary Search Tree.md"
-    },
-    {
       "basename": "Search in Sorted 2D Matrix",
       "path": "Computer Science/Data Structure and Algorithms/Arrays/Search in Sorted 2D Matrix.md"
     },
@@ -65,32 +121,8 @@
       "path": "Computer Science/Java Collection Frame Work/Java Frame Work.canvas"
     },
     {
-      "basename": "Binary Search Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Binary Search Tree.md"
-    },
-    {
       "basename": "Max Value in Binary Tree",
       "path": "Computer Science/Data Structure and Algorithms/Binary tree/Max Value in Binary Tree.md"
-    },
-    {
-      "basename": "2024-08-09-Friday",
-      "path": "Timestamps/2024/08-August/2024-08-09-Friday.md"
-    },
-    {
-      "basename": "2024-08-06-Tuesday",
-      "path": "Timestamps/2024/08-August/2024-08-06-Tuesday.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Binary Tree.md"
-    },
-    {
-      "basename": "Pre Order Traversal",
-      "path": "Computer Science/Data Structure and Algorithms/Binary tree/Pre Order Traversal.md"
-    },
-    {
-      "basename": "In order traversal",
-      "path": "Computer Science/Data Structure and Algorithms/Binary tree/In order traversal.md"
     },
     {
       "basename": "Post Order Traversal",
@@ -99,14 +131,6 @@
     {
       "basename": "Queue",
       "path": "Computer Science/Data Structure and Algorithms/Queues/Queue.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms Made Easy in Java ( PDFDrive )",
-      "path": "Computer Science/Data Structures and Algorithms Made Easy in Java ( PDFDrive ).pdf"
-    },
-    {
-      "basename": "2024-08-05-Monday",
-      "path": "Timestamps/2024/08-August/2024-08-05-Monday.md"
     },
     {
       "basename": "Level Order traversal",

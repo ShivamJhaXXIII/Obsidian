@@ -1,6 +1,6 @@
 Parent Topic : [[Binary Tree]] #traversal 
 
-In Pre order Traversal first we print the parent node than its left child node then at last right node.
+In Pre order Traversal first we print the parent node than its left child node then at last right node. #review 
 ***
 Recursive Method
 
