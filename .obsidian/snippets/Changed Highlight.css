@@ -1,0 +1,11 @@
+body {
+    --text-highlight-bg: #FFFF00;
+}
+
+.theme-dark .cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+    color: black;
+}
+
+.theme-dark .search-result-file-matched-text {
+    color: black;
+}

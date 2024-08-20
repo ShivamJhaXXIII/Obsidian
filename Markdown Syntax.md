@@ -24,15 +24,22 @@ Check List You need to add “-” + space + “[ ]”, i.e., you need a “-”
 - [ ] 2
 
 
-Link "[[]]"
+
 
 [[Markdown Syntax]]
 
 Alias "| " use after link and write what you want to display
 [[Markdown Syntax | Alias]]
 
+Link "[[]]"
+```java
+Use [[#followed by heading name to link a heading of same note]]"
+
+Use [[Title of note "#" followed by the desired heading]]
+```
 
 
+To preview link press ctrl and hover over the link.
 
 
 

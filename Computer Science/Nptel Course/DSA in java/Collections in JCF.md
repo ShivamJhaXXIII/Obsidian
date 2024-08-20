@@ -1,16 +1,20 @@
 ---
 created: 2024-08-07 20:28
-tags: 
-Parent Topic: 
+tags:
+  - "#framework"
+Parent Topic:
+  - "[[Java Frame Work.canvas|Java Frame Work]]"
 Related Topics:
+  - "[[Interface]]"
+  - "[[Classes]]"
 ---
 ---
 The entire java collection is built upon a set of standard interfaces, classes and algorithms.
 
 - <mark style="background: #FFF3A3A6;">**Interfaces**</mark>: 
-	- Set, List, Queue, Dequeue
+	- [[Set of JCF|Set]], List, Queue, Dequeue
 - <mark style="background: #FFF3A3A6;">**Classes**</mark>: 
-	- [[Array List]], [[Vector]],[[Linked List]],[[Priority Queue]],[[HashSet]],[[LinkedHashSet]],[[TreeSet]]
+	- [[Array List]], [[Vector]],[[Linked List]],[[Priority Queue]],[[Set of JCF#HashSet|HashSet]],[[LinkedHashSet]],[[TreeSet]]
 ---
 ### Interfaces of collection:
 

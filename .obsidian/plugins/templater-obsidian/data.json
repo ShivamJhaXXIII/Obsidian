@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "1 Template",
+  "templates_folder": "001 Template",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Computer Science/Data Structure and Algorithms",
+      "template": "001 Template/Simple Note.md"
     }
   ],
   "syntax_highlighting": true,

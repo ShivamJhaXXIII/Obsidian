@@ -11,8 +11,13 @@
             "id": "e814f3a12bf8328e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +72,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "762bc4ad7a7a5197",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -81,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,6 +122,24 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md"
+          }
+        }
+      },
+      {
+        "id": "0d99d57701741a42",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "311645dcacbfe278",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
           "state": {}
         }
       }
@@ -115,14 +148,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e814f3a12bf8328e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Computer Science/Data Structure and Algorithms/Arrays/Arrays.md",
+    "Pasted image 20240806092752.png",
+    "Markdown Syntax.md",
+    "Timestamps/2024/08-August/2024-08-03-Saturday.md",
+    "Timestamps/2024/08-August/2024-08-04-Sunday.md",
+    "Pasted image 20240807210442.png",
+    "Pasted image 20240807200512.png",
+    "Computer Science/Data Structure and Algorithms/Arrays/Spiral Print.md",
+    "Timestamps/2024/08-August/2024-08-09-Friday.md",
+    "Computer Science/Data Structure and Algorithms/Binary Heap.md",
+    "Computer Science/Nptel Course/DSA in java/Collections in JCF.md",
+    "Timestamps/2024/08-August/2024-08-08-Thursday.md",
+    "Timestamps/2024/08-August/2024-08-07-Wednesday.md"
+  ]
 }

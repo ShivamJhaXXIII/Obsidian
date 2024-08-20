@@ -34,6 +34,7 @@ It is a type of binary tree in which the data is organized in a ordered manner w
 The Structure of Binary Search tree is same as the [[Binary Tree]] structure.
 
 Each Binary search tree node has:: three parts:
+<!--SR:!2024-09-03,15,310-->
 
 1. Data
 2. Pointer to the Left Node
